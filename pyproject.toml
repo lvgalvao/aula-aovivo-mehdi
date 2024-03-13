@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aula-aovivo-mehdi"
+version = "0.1.0"
+description = ""
+authors = ["lvgalvaofilho <lvgalvaofilho@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.32.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
